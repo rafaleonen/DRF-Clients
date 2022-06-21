@@ -1,1 +1,12 @@
-# DRF-Clients
+# Approaches
+  - Docker and Docker Compose
+  - Django Framework
+  - Django Rest Framework
+  - Serializer concepts
+  - Relation N-N
+  - CRUD using ModelViewSet
+  - Basic Authentication
+  - Filters
+  - Deploy unsing Heroku
+  - .env
+  - VS Code Debugger
